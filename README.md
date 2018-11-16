@@ -14,11 +14,10 @@ the data was found on Louisville Open Data at https://data.louisvilleky.gov/
 The question I answer in using the data is what was the most reported incident type and total for July 2018.
 
 Libraries Used:
-matplotlib
-numpy
-os
-pandas
-sqlite3
+<li>matplotlib</li>
+<li>numpy</li>
+<li>pandas</li>
+<li>sqlite3</li>
 
 I notated each step within jupyter notebooks to detail what I did along the way
 
